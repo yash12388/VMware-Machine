@@ -1,0 +1,204 @@
+1. Linux Fundamentals
+
+Course: Linux Basics
+
+Week 1: Introduction to Linux
+
+Day 1-2: Introduction to Linux, history, and distributions.
+Day 3-4: Installing Linux (using Ubuntu) on a virtual machine or dual-boot.
+Day 5-7: Understanding the Linux file system hierarchy.
+
+Week 2: Command Line Basics
+
+Day 1-2: Basic commands (ls, cd, pwd, mkdir, rmdir, cp, mv, rm).
+Day 3-4: File permissions and ownership (chmod, chown).
+Day 5-7: Text editors (nano, vim).
+
+Week 3: Intermediate Command Line
+
+Day 1-2: Working with text files (cat, less, more, head, tail).
+Day 3-4: File searching and filtering (grep, find, sort, uniq).
+Day 5-7: Process management (ps, top, kill).
+
+Week 4: Scripting and Automation
+
+Day 1-2: Basics of shell scripting.
+Day 3-4: Writing simple scripts (backup scripts, automation scripts).
+Day 5-7: Using cron for scheduling tasks.
+
+2. Networking Basics
+
+Course: Introduction to Networking
+
+Week 1: Networking Fundamentals
+
+Day 1-2: Understanding OSI and TCP/IP models.
+Day 3-4: IP addressing and subnetting.
+Day 5-7: Basic network devices (routers, switches, hubs).
+
+Week 2: Network Protocols and Services
+
+Day 1-2: Common network protocols (HTTP, HTTPS, FTP, SSH, DNS).
+Day 3-4: DHCP and DNS setup.
+Day 5-7: Introduction to firewalls and VPNs.
+
+Week 3: Practical Networking
+
+Day 1-2: Setting up a home network.
+Day 3-4: Network troubleshooting tools (ping, traceroute, netstat).
+Day 5-7: Basic network security practices.
+
+3. GitLab and Git
+
+Course: Version Control with Git and GitLab
+
+Week 1: Git Basics
+
+Day 1-2: Introduction to version control and Git.
+Day 3-4: Installing and configuring Git.
+Day 5-7: Basic Git commands (init, clone, add, commit, status).
+
+Week 2: GitLab Essentials
+
+Day 1-2: Setting up a GitLab account and repositories.
+Day 3-4: Pushing to and pulling from GitLab repositories.
+Day 5-7: Basic GitLab CI/CD pipelines.
+
+Week 3: Advanced Git and GitLab
+
+Day 1-2: Branching and merging.
+Day 3-4: Handling merge conflicts.
+Day 5-7: Advanced CI/CD practices in GitLab.
+
+4. Docker
+
+Course: Docker Essentials
+
+Week 1: Introduction to Docker
+
+Day 1-2: What is Docker and why use it?
+Day 3-4: Installing Docker on various platforms.
+Day 5-7: Basic Docker commands (run, pull, push, ps).
+
+Week 2: Working with Docker Images and Containers
+
+Day 1-2: Understanding Docker images and containers.
+Day 3-4: Building custom Docker images (Dockerfile).
+Day 5-7: Managing containers (start, stop, restart).
+
+Week 3: Docker Compose and Networking
+
+Day 1-2: Introduction to Docker Compose.
+Day 3-4: Writing docker-compose.yml files.
+Day 5-7: Networking in Docker.
+
+5. Virtualization with ESXi and KVM
+
+Course: Virtualization Fundamentals
+
+Week 1: Introduction to Virtualization
+
+Day 1-2: What is virtualization and why use it?
+Day 3-4: Understanding hypervisors (Type 1 and Type 2).
+Day 5-7: Setting up VMware ESXi.
+
+Week 2: Working with VMware ESXi
+
+Day 1-2: Installing and configuring ESXi.
+Day 3-4: Creating and managing VMs in ESXi.
+Day 5-7: Basic ESXi networking and storage.
+
+Week 3: KVM Basics
+
+Day 1-2: Introduction to KVM.
+Day 3-4: Installing and configuring KVM on Ubuntu.
+Day 5-7: Creating and managing VMs with KVM.
+
+6. Infrastructure as Code (IaC) with Terraform
+
+Course: Terraform for Beginners
+
+Week 1: Introduction to Terraform
+
+Day 1-2: What is Terraform and why use it?
+Day 3-4: Installing Terraform.
+Day 5-7: Writing your first Terraform configuration.
+
+Week 2: Managing Infrastructure with Terraform
+
+Day 1-2: Understanding Terraform state.
+Day 3-4: Using variables and outputs.
+Day 5-7: Managing resources and dependencies.
+
+Week 3: Advanced Terraform
+
+Day 1-2: Terraform modules.
+Day 3-4: Working with multiple providers.
+Day 5-7: Best practices and troubleshooting.
+
+7. Configuration Management with Ansible
+
+Course: Ansible Essentials
+
+Week 1: Introduction to Ansible
+
+Day 1-2: What is Ansible and why use it?
+Day 3-4: Installing Ansible.
+Day 5-7: Writing and running your first playbook.
+
+Week 2: Ansible Playbooks and Roles
+
+Day 1-2: Understanding playbooks and roles.
+Day 3-4: Writing complex playbooks.
+Day 5-7: Using roles for modular playbooks.
+
+Week 3: Advanced Ansible
+
+Day 1-2: Ansible Vault for secrets management.
+Day 3-4: Ansible Galaxy.
+Day 5-7: Best practices and troubleshooting.
+
+Optional: 8. CI/CD with Jenkins
+
+Course: Jenkins for Beginners
+
+Week 1: Introduction to Jenkins
+
+Day 1-2: What is Jenkins and why use it?
+Day 3-4: Installing and setting up Jenkins.
+Day 5-7: Creating your first Jenkins job.
+
+Week 2: Jenkins Pipelines
+
+Day 1-2: Understanding Jenkins pipelines.
+Day 3-4: Writing and running pipeline scripts.
+Day 5-7: Advanced pipeline features.
+
+Week 3: Integrating Jenkins
+
+Day 1-2: Integrating Jenkins with Git.
+Day 3-4: Using Jenkins for CI/CD.
+Day 5-7: Best practices and troubleshooting.
+
+Optional: 9. Cloud Platforms (AWS as an example)
+
+Course: AWS Certified Solutions Architect
+
+Week 1: Introduction to AWS
+
+Day 1-2: What is AWS and why use it?
+Day 3-4: Setting up an AWS account.
+Day 5-7: Introduction to core AWS services (EC2, S3, RDS).
+
+Week 2: AWS Compute and Storage
+
+Day 1-2: EC2 instances.
+Day 3-4: Managing storage with S3.
+Day 5-7: Databases with RDS.
+
+Week 3: Advanced AWS Services
+
+Day 1-2: Networking with VPC.
+Day 3-4: Serverless with Lambda.
+Day 5-7: Security best practices.
+
